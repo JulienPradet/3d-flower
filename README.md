@@ -7,6 +7,8 @@ Pour la petite histoire :
 * [Annonce du stream](https://twitter.com/JulienPradet/status/1461794726244401165)
 * [Rediff du live](https://www.youtube.com/watch?v=La6MaKmUkGs)
 
+Le code est situé dans [main.js](https://github.com/JulienPradet/3d-flower/blob/main/main.js).
+
 ## Lancer le projet
 
 Il faut que vous ayez `npm` et `node` installé sur votre machine.
